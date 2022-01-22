@@ -24,7 +24,6 @@ an sql file for analysing data warehouse through OLAP queries
 
 
 The Mesh Join algorithm has been implemented in Java on eclipse and requires the following packages to run successfully :
-
 JDBC jar file to connect to mysql database
 Google Guava jar file to implement the functionality of Multi hash-map in Java
 
