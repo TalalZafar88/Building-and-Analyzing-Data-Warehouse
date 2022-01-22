@@ -3,7 +3,9 @@ The aim of the project was to design, implement, and analyze a Data Warehouse (D
 
 # Tools and Technologies
 Java
+
 SQL
+
 Google Guava
 
 # How to Install and Run the Project
