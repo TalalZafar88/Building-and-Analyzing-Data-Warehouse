@@ -1,8 +1,8 @@
 # Building-and-Analysing-Data-Warehouse
 
 ## Table of contents
-* [Project Description](#Project Description)
-* [Tools and Technologies](#Tools and Technologies)
+* [Project Description](#project_description)
+* [Tools and Technologies](#tools_and_technologies)
 * [Setup](#setup)
 
 ## Project Description
