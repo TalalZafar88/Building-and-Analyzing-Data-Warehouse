@@ -1,7 +1,7 @@
 # Building-and-Analysing-Data-Warehouse
 
 ## Table of contents
-* [Project_Description](#project_description)
+* [ProjectDescription](#project_description)
 * [Tools_and_Technologies](#tools_and_technologies)
 * [Setup](#setup)
 
